@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Simon Hørup Eskildsen', 'Jared Szechy']
   s.email       = ['sirup@sirupsen.com', 'jared.szechy@gmail.com']
-  s.homepage    = 'https://github.com/firmafon/ruby-fogbugz'
+  s.homepage    = 'https://github.com/szechyjs/ruby-fogbugz'
   s.summary     = 'Ruby wrapper for the Fogbugz API'
   s.description = 'A simple Ruby wrapper for the Fogbugz XML API'
   s.license     = 'MIT'
