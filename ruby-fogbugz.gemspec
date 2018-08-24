@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'multipart-post', '~> 2.0'
 
   s.add_development_dependency 'rake', '< 11.0'
-  s.add_development_dependency 'webmock', '~> 1.21'
+  s.add_development_dependency 'webmock', '~> 3.4'
   s.add_development_dependency 'rspec', '~> 3.3'
   s.add_development_dependency 'codeclimate-test-reporter', '~> 1.0.0'
 
