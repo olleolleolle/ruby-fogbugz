@@ -1,14 +1,14 @@
 [![Gem Version](https://img.shields.io/gem/v/ruby-fogbugz.svg)][gem]
 [![Build Status](https://img.shields.io/travis/szechyjs/ruby-fogbugz.svg)][travis]
 [![Dependency Status](https://img.shields.io/gemnasium/szechyjs/ruby-fogbugz.svg)][gemnasium]
-[![Code Climate](https://img.shields.io/codeclimate/github/szechyjs/ruby-fogbugz.svg)][codeclimate]
-[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/szechyjs/ruby-fogbugz.svg)][coverage]
+[![Maintainability](https://api.codeclimate.com/v1/badges/b7a57f718d1bb253c945/maintainability)][codeclimate]
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b7a57f718d1bb253c945/test_coverage)][coverage]
 
 [gem]: https://rubygems.org/gems/ruby-fogbugz
 [travis]: https://travis-ci.org/szechyjs/ruby-fogbugz
 [gemnasium]: https://gemnasium.com/szechyjs/ruby-fogbugz
-[codeclimate]: https://codeclimate.com/github/szechyjs/ruby-fogbugz
-[coverage]: https://codeclimate.com/github/szechyjs/ruby-fogbugz/coverage
+[codeclimate]: https://codeclimate.com/github/szechyjs/ruby-fogbugz/maintainability
+[coverage]: https://codeclimate.com/github/szechyjs/ruby-fogbugz/test_coverage
 
 # ruby-fogbugz
 
