@@ -13,8 +13,6 @@ Gem::Specification.new do |s|
   s.description = 'A simple Ruby wrapper for the Fogbugz XML API'
   s.license     = 'MIT'
 
-  s.rubyforge_project = 'ruby-fogbugz'
-
   s.add_dependency 'crack', '~> 0.4'
   s.add_dependency 'multipart-post', '~> 2.0'
 
